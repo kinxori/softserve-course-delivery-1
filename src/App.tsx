@@ -21,7 +21,7 @@ function App() {
       />
       <div className='overlay'></div>
       <div className='whole transition-translate-y'>
-        <div className='container'>
+        <div className='container '>
           <img
             className='pfp transition-scale-in'
             src='https://pbs.twimg.com/profile_images/1659370175546765314/NQtKyiWa_400x400.jpg'
@@ -29,8 +29,8 @@ function App() {
           />
           <hr className='separator-1' />
           <div className='copy'>
-            <h1 className='transition-translate-y transition-opacity-2'>Kinxori</h1>
-            <p className='transition-translate-y transition-opacity-2'>
+            <h1>Kinxori</h1>
+            <p>
               3D artist, Investor and Web Developer in process. <br /> Keep Creating!
             </p>
             <div className='icons'>
